@@ -1,0 +1,7 @@
+Django
+whitenoise
+django-environ
+django-silk
+
+
+psycopg2
